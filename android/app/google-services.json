@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331281651106",
+    "project_id": "blog-pierorolando",
+    "storage_bucket": "blog-pierorolando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331281651106:android:04112929f03838afb28efb",
+        "android_client_info": {
+          "package_name": "com.example.pierorolandoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331281651106-lr0q7ucv8qo2q3vpqq87ol2bb81ppknn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepTq8dy4-lXKPNgRJ0keez3eq9XffW5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331281651106-lr0q7ucv8qo2q3vpqq87ol2bb81ppknn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
